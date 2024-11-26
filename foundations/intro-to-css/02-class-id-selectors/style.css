@@ -1,0 +1,19 @@
+.box1, .box3, .box5 {
+    background-color: #f5b7c1;
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+#box2 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.box3 {
+    font-size: 24px;
+}
+
+#box4 {
+    color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
